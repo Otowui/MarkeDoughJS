@@ -1,5 +1,6 @@
 .DS_Store
 package.json
+README.md
 webpack.config.js
 src/
 node_modules/
