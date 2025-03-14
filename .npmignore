@@ -1,0 +1,5 @@
+src/
+.gitignore
+.DS_Store
+Build.app
+README.md
