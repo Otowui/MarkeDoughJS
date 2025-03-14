@@ -1,0 +1,14 @@
+{
+	"#formTitle": "Contact Form",
+	"label[for='Email']": "E-mail",
+	"h3": "Welcome on Board",
+	"input[name='FirstName']": {
+		"text": "First Name",
+		"placeholder": "John"
+	},
+	"textarea[name='Message']": {
+		"text": "Request",
+		"placeholder": "Add some details"
+	},
+	".mktoButton": "Submit Request"
+}
