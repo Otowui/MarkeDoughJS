@@ -61,7 +61,7 @@ const mktoConfig = {
 	}
 };
 MktoForms2.loadForm(`//${mktoConfig.domain}`, mktoConfig.munchkinId, mktoConfig.formId);
-OtoForms2.init(mktoConfig.domain, mktoConfig.munchkinId, mktoConfig.formId, mktoConfig.formConfig);
+MarkeDough.init(mktoConfig.domain, mktoConfig.munchkinId, mktoConfig.formId, mktoConfig.formConfig);
 </script>
 ```
 
