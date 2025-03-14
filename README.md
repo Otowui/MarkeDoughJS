@@ -336,9 +336,7 @@ Replaces predefined tokens in form elements with custom values.
 ### Google reCAPTCHA
 Enables Google reCAPTCHA v3 to prevent bot submissions.
 > [!WARNING]
-> Google reCAPTCHA has been deprecated, scoring through recaptcha should be used by programs 
-ref : https://iluv.marketingops.com/integration-for-marketo-and-google-recaptcha-v3?ref=blog.teknkl.com
-ref : https://nation.marketo.com/t5/marketo-whisperer-blogs/application-of-the-captcha-integration/ba-p/336320
+> Google reCAPTCHA has been deprecated, scoring through recaptcha is supported out-of-the-box by Marketo
 * ```recaptcha```: ```true``` (enable) | ```false``` (disable) reCAPTCHA protection.
 * ```recaptchaConfig```: Defines the reCAPTCHA settings.
 * ```recaptchaConfig.apiKeys```: Your reCAPTCHA site key
