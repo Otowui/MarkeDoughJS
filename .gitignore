@@ -1,0 +1,6 @@
+.DS_Store
+package.json
+webpack.config.js
+src/
+node_modules/
+dist/markedough.min.js.LICENSE.txt
