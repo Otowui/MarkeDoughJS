@@ -1,7 +1,4 @@
 .DS_Store
-package.json
+Build.app
 README.md
-webpack.config.js
 src/
-node_modules/
-dist/markedough.min.js.LICENSE.txt
